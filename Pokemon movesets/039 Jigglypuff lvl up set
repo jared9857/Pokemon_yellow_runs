@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %
+0,0,Sing,Status,55,15,0
+1,9,Pound,40,100,35,0
+2,14,Disable,Status,55,20,0
+3,19,Defense Curl,Status,100,40,0
+4,24,Double Slap,15,85,10,0
+5,29,Rest,Status,100,10,0
+6,34,Body Slam,85,100,15,33
+7,39,Double-Edge,100,100,15,0

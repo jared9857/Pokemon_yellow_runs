@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %
+0,0,Pound,40,100,35,0
+1,0,Growl,Status,100,40,0
+2,13,Sing,Status,55,15,0
+3,18,Double Slap,15,85,10,0
+4,24,Minimize,Status,100,20,0
+5,31,Metronome,Status,100,10,0
+6,39,Defense Curl,Status,100,40,0
+7,48,Light Screen,Status,100,30,0

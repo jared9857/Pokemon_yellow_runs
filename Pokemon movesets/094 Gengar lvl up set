@@ -1,0 +1,6 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %
+0,0,Lick,20,100,30,33
+1,0,Confuse Ray,Status,100,10,0
+2,0,Night Shade,Status,100,15,0
+3,29,Hypnosis,Status,59.8,20,0
+4,38,Dream Eater,100,100,15,0

@@ -1,0 +1,6 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %
+0,0,Withdraw,Status,100,40,0
+1,0,Supersonic,Status,55,20,0
+2,0,Clamp,35,75,10,0
+3,0,Aurora Beam,65,100,20,33
+4,50,Spike Cannon,20,100,15,0

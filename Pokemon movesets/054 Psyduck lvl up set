@@ -1,0 +1,7 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %
+0,0,Scratch,40,100,35,0
+1,28,Tail Whip,Status,100,30,0
+2,31,Disable,Status,55,20,0
+3,36,Confusion,50,100,25,10
+4,43,Fury Swipes,18,80,15,0
+5,52,Hydro Pump,120,80,5,0

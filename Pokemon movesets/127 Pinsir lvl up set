@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %
+0,0,Vice Grip,55,100,30,0
+1,21,Bind,15,74.6,20,0
+2,25,Seismic Toss,??,100,20,0
+3,30,Guillotine,??,30,5,0
+4,36,Focus Energy,Status,100,30,0
+5,43,Harden,Status,100,30,0
+6,49,Slash,70,100,20,0
+7,54,Swords Dance,Status,100,30,0

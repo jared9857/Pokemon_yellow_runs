@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %
+0,0,Tackle,35,95,35,0
+1,0,Tail Whip,Status,100,30,0
+2,8,Sand-Attack,Status,100,15,0
+3,16,Growl,Status,100,40,0
+4,23,Quick Attack,40,100,30,0
+5,30,Bite,60,100,25,10
+6,36,Focus Energy,Status,100,30,0
+7,42,Take Down,90,85,20,0

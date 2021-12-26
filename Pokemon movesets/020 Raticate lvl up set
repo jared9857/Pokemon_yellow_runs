@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %
+0,0,Tackle,35,95,35,0
+1,0,Tail Whip,Status,100,30,0
+2,0,Quick Attack,40,100,30,0
+3,7,Quick Attack,40,100,30,0
+4,14,Hyper Fang,80,90,15,10
+5,27,Focus Energy,Status,100,30,0
+6,41,Super Fang,Fixed,90,10,0

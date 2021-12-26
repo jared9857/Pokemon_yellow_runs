@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %
+0,0,Tackle,35,95,35,0
+1,21,Sonic Boom,Fixed,90,20,0
+2,25,Thunder Shock,40,100,30,0
+3,29,Supersonic,Status,55,20,0
+4,35,Thunder Wave,Status,100,20,10
+5,41,Swift,60,100,20,0
+6,47,Screech,Status,85,40,0

@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %
+0,0,Headbutt,70,100,15,33
+1,0,Amnesia,Status,100,20,0
+2,0,Rest,Status,100,10,0
+3,35,Body Slam,85,100,15,33
+4,41,Harden,Status,100,30,0
+5,48,Double-Edge,100,100,15,0
+6,56,Hyper Beam,150,90,5,0

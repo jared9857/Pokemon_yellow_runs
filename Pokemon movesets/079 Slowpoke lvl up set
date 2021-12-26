@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %
+0,0,Confusion,50,100,25,10
+1,18,Disable,Status,55,20,0
+2,22,Headbutt,70,100,15,33
+3,27,Growl,Status,100,40,0
+4,33,Water Gun,40,100,25,0
+5,40,Amnesia,Status,100,20,0
+6,48,Psychic,90,100,10,30
