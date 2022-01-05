@@ -1,0 +1,21 @@
+,TM/HM #,Attack Name,Power,Acc.,PP,Effect %
+0,TM02,Razor Wind,80,74.6,10,0
+1,TM04,Whirlwind,Status,85,20,0
+2,TM06,Toxic,Status,85,10,0
+3,TM09,Take Down,90,85,20,0
+4,TM10,Double-Edge,100,100,15,0
+5,TM15,Hyper Beam,150,90,5,0
+6,TM20,Rage,20,100,20,0
+7,TM21,Mega Drain,40,100,10,0
+8,TM22,Solar Beam,120,100,10,0
+9,TM29,Psychic,90,100,10,30
+10,TM30,Teleport,Status,100,20,0
+11,TM31,Mimic,Status,100,10,0
+12,TM32,Double Team,Status,100,15,0
+13,TM33,Reflect,Status,100,20,0
+14,TM34,Bide,Status,100,10,0
+15,TM39,Swift,60,100,20,0
+16,TM44,Rest,Status,100,10,0
+17,TM46,Psywave,Fixed,80,15,0
+18,TM50,Substitute,Status,100,10,0
+19,HM05Yellow Only,Flash,Status,70,20,0

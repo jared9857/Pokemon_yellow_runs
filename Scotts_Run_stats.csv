@@ -1,0 +1,41 @@
+Pokemon_Name,HP,Attack,Defense,Special,Speed,Type,Type_two,Duel_Type,Can_the_pokemon_still_evolve,Level_up_moves,TM_moves,Lvl_up_group,Ending_level,Ending_time,Number_of_resets
+Kabutops,60,115,105,70,80,Rock,Water,1,0,,,Medium Fast,57,1:16:43,NA
+Kangaskhan,105,95,80,40,90,Normal,Null,0,0,,,Medium Fast,62,1:04:56,1
+Tauros,75,100,95,70,110,Normal,Null,0,0,,,Slow,59,1:10:12,2
+Mew,100,100,100,100,100,Psychic,Null,0,0,,,Medium Slow,59,1:17:48,NA
+Snorlax,160,110,65,65,30,Normal,Null,0,0,,,Slow,54,1:37:38,NA
+Pinsir,65,125,100,55,85,Bug,Null,0,0,,,Slow,64,1:40:38,NA
+Omastar,70,60,125,115,55,Rock,Water,1,0,,,Medium Fast,59,1:21:34,NA
+Starmie,60,75,85,100,115,Water,Psychic,1,0,,,Slow,57,1:41:01,NA
+Cloyster,50,95,180,85,70,Water,Ice,1,0,,,Slow,61,2:00:55,NA
+Golem,80,110,130,55,45,Rock,Ground,1,0,,,Medium Slow,67,1:13:35,2
+Machamp,90,130,80,65,55,Fight,Null,0,0,,,Medium Slow,68,1:13:47,3
+Gengar,60,65,60,130,110,Ghost,Poison,1,0,,,Medium Slow,59,1:19:48,3
+Alakazam,55,50,45,135,120,Psychic,Null,0,0,,,Medium Slow,57,1:14:37,3
+Electabuzz,65,83,57,85,105,Electric,Null,0,0,,,Medium Fast,66,2:01:10,NA
+Lapras <3,130,85,80,95,60,Water,Ice,1,0,,,Slow,62,2:25:09,NA
+Hitmonlee,50,120,53,35,87,Fight,Null,0,0,,,Medium Fast,61,2:31:55,NA
+Scyther,70,110,80,55,105,Bug,Flying,1,0,,,Medium Fast,69,2:15:49,NA
+Raticate,55,81,60,50,97,Normal,Null,0,0,,,Medium Fast,63,1:13:10,4
+Slowpoke,90,65,65,40,15,Water,Psychic,1,1,,,Medium Fast,64,1:28:43,11
+Clefairy,70,45,48,60,35,Normal,Null,0,1,,,Fast,69,1:23:20,5
+Gastly,30,35,30,100,80,Ghost,Poison,1,1,,,Medium Slow,72,1:27:40,16
+Tentacool,40,40,35,100,70,Water,Poison,1,1,,,Slow,69,NA,NA
+Magmar,65,95,57,85,93,Fire,Null,0,0,,,Medium Fast,69,2:09:47,NA
+Farfetchd,52,65,55,58,60,Normal,Flying,1,0,,,Medium Fast,65,NA,NA
+Chansey,250,5,5,105,50,Normal,Null,0,0,,,Fast,67,NA,NA
+Butterfree <3,60,45,50,80,70,Bug,Flying,1,0,,,Medium Fast,65,2:05:55,NA
+Beedrill,65,80,40,45,75,Bug,Poison,1,0,,,Medium Fast,65,2:20:30,NA
+Eevee,55,55,50,65,55,Normal,Null,0,1,,,Medium Fast,76,1:56:52,15
+Porygon,65,60,70,75,40,Normal,Null,0,0,,,Medium Fast,60,NA,NA
+Aerodactyl,80,105,65,60,130,Rock,Flying,1,0,,,Slow,67,2:55:18,35
+Meowth,40,45,35,40,90,Normal,Null,0,1,,,Medium Fast,74,NA,NA
+Jigglypuff,115,45,20,25,20,Normal,Null,0,1,,,Fast,90,NA,NA
+Psyduck,50,52,48,50,55,Water,Null,0,1,,,Medium Fast,71,NA,NA
+Sandshrew,50,75,85,30,40,Ground,Null,0,1,,,Medium Fast,75,3:04:00,NA
+Grimer,80,80,50,40,25,Poison,Null,0,1,,,Medium Fast,77,2:16:22,12
+Magnemite,25,35,70,95,45,Electric,Null,0,1,,,Medium Fast,80,2:18:37,9
+Pikachu,35,55,30,50,90,Electric,Null,0,1,,,Medium Fast,85,2:20:38,25
+Voltorb,40,30,50,55,100,Electric,Null,0,1,,,Medium Fast,100,NA,NA
+Geodude,40,80,100,30,20,Rock,Ground,1,1,,,Medium Slow,81,NA,NA
+Tangela,65,55,115,100,60,Grass,Null,0,0,,,Medium Fast,60,2:53:56,17
