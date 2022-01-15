@@ -1,0 +1,7 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Scratch,40,100,35,0,Sandshrew
+1,10,Sand-Attack,Status,100,15,0,Sandshrew
+2,17,Slash,70,100,20,0,Sandshrew
+3,24,Poison Sting,15,100,35,0,Sandshrew
+4,31,Swift,60,100,20,0,Sandshrew
+5,38,Fury Swipes,18,80,15,0,Sandshrew

@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Tackle,35,95,35,0,Koffing
+1,0,Smog,20,70,20,50,Koffing
+2,32,Sludge,65,100,20,50,Koffing
+3,37,Smokescreen,Status,100,20,0,Koffing
+4,40,Self-Destruct,130,100,5,0,Koffing
+5,45,Haze,Status,100,30,0,Koffing
+6,48,Explosion,170,100,5,0,Koffing

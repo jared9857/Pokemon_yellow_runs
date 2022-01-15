@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Pound,40,100,35,0,Grimer
+1,0,Disable,Status,55,20,0,Grimer
+2,30,Poison Gas,Status,55,40,0,Grimer
+3,33,Minimize,Status,100,20,0,Grimer
+4,37,Sludge,65,100,20,50,Grimer
+5,42,Harden,Status,100,30,0,Grimer
+6,48,Screech,Status,85,40,0,Grimer
+7,55,Acid Armor,Status,100,40,0,Grimer

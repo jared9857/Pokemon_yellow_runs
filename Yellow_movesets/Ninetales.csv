@@ -1,0 +1,5 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Ember,40,100,25,10,Ninetales
+1,0,Tail Whip,Status,100,30,0,Ninetales
+2,0,Quick Attack,40,100,30,0,Ninetales
+3,0,Roar,Status,100,20,0,Ninetales

@@ -1,9 +1,0 @@
-,Level,Attack Name,Power,Acc.,PP,Effect %
-0,0,Quick Attack,40,100,30,0
-1,17,Leer,Status,100,30,0
-2,20,Focus Energy,Status,100,30,0
-3,24,Double Team,Status,100,15,0
-4,29,Slash,70,100,20,0
-5,35,Swords Dance,Status,100,30,0
-6,42,Agility,Status,100,30,0
-7,50,Wing Attack,35,100,35,0

@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Karate Chop,50,100,25,0,Machoke
+1,0,Low Kick,50,90,20,33,Machoke
+2,0,Leer,Status,100,30,0,Machoke
+3,20,Low Kick,50,90,20,33,Machoke
+4,25,Leer,Status,100,30,0,Machoke
+5,36,Focus Energy,Status,100,30,0,Machoke
+6,44,Seismic Toss,Fixed,100,20,0,Machoke
+7,52,Submission,80,80,25,0,Machoke

@@ -1,0 +1,16 @@
+,TM/HM #,Attack Name,Power,Acc.,PP,Effect %
+0,TM06,Toxic,Status,85,10,0
+1,TM08,Body Slam,85,100,15,33
+2,TM09,Take Down,90,85,20,0
+3,TM10,Double-Edge,100,100,15,0
+4,TM20,Rage,20,100,20,0
+5,TM26,Earthquake,100,100,10,0
+6,TM27,Fissure,Fixed,30,5,0
+7,TM28,Dig,100,100,10,0
+8,TM31,Mimic,Status,100,10,0
+9,TM32,Double Team,Status,100,15,0
+10,TM34,Bide,Status,100,10,0
+11,TM44,Rest,Status,100,10,0
+12,TM48,Rock Slide,75,90,10,0
+13,TM50,Substitute,Status,100,10,0
+14,HM01Yellow Only,Cut,50,95,30,0

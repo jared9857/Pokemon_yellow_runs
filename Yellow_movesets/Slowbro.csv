@@ -1,0 +1,11 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Confusion,50,100,25,10,Slowbro
+1,0,Disable,Status,55,20,0,Slowbro
+2,0,Headbutt,70,100,15,33,Slowbro
+3,18,Disable,Status,55,20,0,Slowbro
+4,22,Headbutt,70,100,15,33,Slowbro
+5,27,Growl,Status,100,40,0,Slowbro
+6,33,Water Gun,40,100,25,0,Slowbro
+7,37,Withdraw,Status,100,40,0,Slowbro
+8,44,Amnesia,Status,100,20,0,Slowbro
+9,55,Psychic,90,100,10,30,Slowbro

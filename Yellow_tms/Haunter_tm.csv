@@ -1,0 +1,16 @@
+,TM/HM #,Attack Name,Power,Acc.,PP,Effect %
+0,TM06,Toxic,Status,85,10,0
+1,TM20,Rage,20,100,20,0
+2,TM21,Mega Drain,40,100,10,0
+3,TM24,Thunderbolt,95,100,15,10
+4,TM25,Thunder,120,70,10,10
+5,TM29,Psychic,90,100,10,30
+6,TM31,Mimic,Status,100,10,0
+7,TM32,Double Team,Status,100,15,0
+8,TM34,Bide,Status,100,10,0
+9,TM36,Self-Destruct,130,100,5,0
+10,TM42,Dream Eater,100,100,15,0
+11,TM44,Rest,Status,100,10,0
+12,TM46,Psywave,Fixed,80,15,0
+13,TM47,Explosion,170,100,5,0
+14,TM50,Substitute,Status,100,10,0

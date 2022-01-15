@@ -1,0 +1,7 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Wing Attack,35,100,35,0,Aerodactyl
+1,0,Agility,Status,100,30,0,Aerodactyl
+2,33,Supersonic,Status,55,20,0,Aerodactyl
+3,38,Bite,60,100,25,10,Aerodactyl
+4,45,Take Down,90,85,20,0,Aerodactyl
+5,54,Hyper Beam,150,90,5,0,Aerodactyl

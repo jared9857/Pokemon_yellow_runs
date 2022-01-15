@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Scratch,40,100,35,0,Parasect
+1,0,Stun Spore,Status,75,30,0,Parasect
+2,0,Leech Life,20,100,15,0,Parasect
+3,13,Stun Spore,Status,75,30,0,Parasect
+4,20,Leech Life,20,100,15,0,Parasect
+5,30,Spore,Status,100,15,0,Parasect
+6,39,Slash,70,100,20,0,Parasect
+7,48,Growth,Status,100,40,0,Parasect

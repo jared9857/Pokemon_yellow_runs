@@ -1,0 +1,28 @@
+,TM/HM #,Attack Name,Power,Acc.,PP,Effect %,Name
+0,TM01,Mega Punch,80,85,20,0,Mr. Mime
+1,TM05,Mega Kick,120,74.6,5,0,Mr. Mime
+2,TM06,Toxic,Status,85,10,0,Mr. Mime
+3,TM08,Body Slam,85,100,15,33,Mr. Mime
+4,TM09,Take Down,90,85,20,0,Mr. Mime
+5,TM10,Double-Edge,100,100,15,0,Mr. Mime
+6,TM15,Hyper Beam,150,90,5,0,Mr. Mime
+7,TM17,Submission,80,80,25,0,Mr. Mime
+8,TM18,Counter,Fixed,100,20,0,Mr. Mime
+9,TM19,Seismic Toss,Fixed,100,20,0,Mr. Mime
+10,TM20,Rage,20,100,20,0,Mr. Mime
+11,TM22,Solar Beam,120,100,10,0,Mr. Mime
+12,TM24,Thunderbolt,95,100,15,10,Mr. Mime
+13,TM25,Thunder,120,70,10,10,Mr. Mime
+14,TM29,Psychic,90,100,10,30,Mr. Mime
+15,TM30,Teleport,Status,100,20,0,Mr. Mime
+16,TM31,Mimic,Status,100,10,0,Mr. Mime
+17,TM32,Double Team,Status,100,15,0,Mr. Mime
+18,TM33,Reflect,Status,100,20,0,Mr. Mime
+19,TM34,Bide,Status,100,10,0,Mr. Mime
+20,TM35,Metronome,Status,100,10,0,Mr. Mime
+21,TM40,Skull Bash,100,100,15,0,Mr. Mime
+22,TM44,Rest,Status,100,10,0,Mr. Mime
+23,TM45,Thunder Wave,Status,100,20,10,Mr. Mime
+24,TM46,Psywave,Fixed,80,15,0,Mr. Mime
+25,TM50,Substitute,Status,100,10,0,Mr. Mime
+26,HM05,Flash,Status,70,20,0,Mr. Mime

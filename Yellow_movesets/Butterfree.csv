@@ -1,0 +1,10 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Confusion,50,100,25,10,Butterfree
+1,10,Confusion,50,100,25,10,Butterfree
+2,13,Poison Powder,Status,74.6,35,20,Butterfree
+3,14,Stun Spore,Status,75,30,0,Butterfree
+4,15,Sleep Powder,Status,75,15,0,Butterfree
+5,18,Supersonic,Status,55,20,0,Butterfree
+6,23,Whirlwind,Status,85,20,0,Butterfree
+7,28,Gust,40,100,35,0,Butterfree
+8,34,Psybeam,65,100,20,10,Butterfree

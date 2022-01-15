@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Bite,60,100,25,10,Growlithe
+1,0,Roar,Status,100,20,0,Growlithe
+2,18,Ember,40,100,25,10,Growlithe
+3,23,Leer,Status,100,30,0,Growlithe
+4,30,Take Down,90,85,20,0,Growlithe
+5,39,Agility,Status,100,30,0,Growlithe
+6,50,Flamethrower,95,100,15,10,Growlithe

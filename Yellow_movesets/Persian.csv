@@ -1,0 +1,10 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Scratch,40,100,35,0,Persian
+1,0,Growl,Status,100,40,0,Persian
+2,0,Bite,60,100,25,10,Persian
+3,0,Screech,Status,85,40,0,Persian
+4,12,Bite,60,100,25,10,Persian
+5,17,Pay Day,40,100,20,0,Persian
+6,24,Screech,Status,85,40,0,Persian
+7,37,Fury Swipes,18,80,15,0,Persian
+8,51,Slash,70,100,20,0,Persian

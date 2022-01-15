@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Headbutt,70,100,15,33,Dewgong
+1,0,Growl,Status,100,40,0,Dewgong
+2,0,Aurora Beam,65,100,20,33,Dewgong
+3,30,Growl,Status,100,40,0,Dewgong
+4,35,Aurora Beam,65,100,20,33,Dewgong
+5,44,Rest,Status,100,10,0,Dewgong
+6,50,Take Down,90,85,20,0,Dewgong
+7,56,Ice Beam,95,100,10,10,Dewgong

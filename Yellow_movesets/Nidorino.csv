@@ -1,0 +1,10 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Leer,Status,100,30,0,Nidorino
+1,0,Tackle,35,95,35,0,Nidorino
+2,0,Horn Attack,65,100,25,0,Nidorino
+3,8,Horn Attack,65,100,25,0,Nidorino
+4,12,Double Kick,30,100,30,0,Nidorino
+5,19,Poison Sting,15,100,35,0,Nidorino
+6,27,Focus Energy,Status,100,30,0,Nidorino
+7,36,Fury Attack,15,85,20,0,Nidorino
+8,46,Horn Drill,Fixed,30,5,0,Nidorino

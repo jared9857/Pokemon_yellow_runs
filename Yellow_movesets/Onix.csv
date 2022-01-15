@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Tackle,35,95,35,0,Onix
+1,0,Screech,Status,85,40,0,Onix
+2,15,Bind,15,74.6,20,0,Onix
+3,19,Rock Throw,50,65,15,0,Onix
+4,25,Rage,20,100,20,0,Onix
+5,33,Slam,80,74.6,20,0,Onix
+6,43,Harden,Status,100,30,0,Onix

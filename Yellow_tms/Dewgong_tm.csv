@@ -1,0 +1,21 @@
+,TM/HM #,Attack Name,Power,Acc.,PP,Effect %
+0,TM06,Toxic,Status,85,10,0
+1,TM07,Horn Drill,Fixed,30,5,0
+2,TM08,Body Slam,85,100,15,33
+3,TM09,Take Down,90,85,20,0
+4,TM10,Double-Edge,100,100,15,0
+5,TM11,Bubble Beam,65,100,20,33
+6,TM12,Water Gun,40,100,25,0
+7,TM13,Ice Beam,95,100,10,10
+8,TM14,Blizzard,120,90,5,10
+9,TM15,Hyper Beam,150,90,5,0
+10,TM16,Pay Day,40,100,20,0
+11,TM20,Rage,20,100,20,0
+12,TM31,Mimic,Status,100,10,0
+13,TM32,Double Team,Status,100,15,0
+14,TM34,Bide,Status,100,10,0
+15,TM40,Skull Bash,100,100,15,0
+16,TM44,Rest,Status,100,10,0
+17,TM50,Substitute,Status,100,10,0
+18,HM03,Surf,95,100,15,0
+19,HM04,Strength,80,100,15,0

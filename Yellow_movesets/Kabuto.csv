@@ -1,0 +1,7 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Scratch,40,100,35,0,Kabuto
+1,0,Harden,Status,100,30,0,Kabuto
+2,34,Absorb,20,100,20,0,Kabuto
+3,39,Slash,70,100,20,0,Kabuto
+4,44,Leer,Status,100,30,0,Kabuto
+5,49,Hydro Pump,120,80,5,0,Kabuto

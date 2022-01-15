@@ -1,0 +1,5 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Roar,Status,100,20,0,Arcanine
+1,0,Ember,40,100,25,10,Arcanine
+2,0,Leer,Status,100,30,0,Arcanine
+3,0,Take Down,90,85,20,0,Arcanine

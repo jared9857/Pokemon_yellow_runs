@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Comet Punch,18,85,15,0,Kangaskhan
+1,0,Rage,20,100,20,0,Kangaskhan
+2,26,Bite,60,100,25,10,Kangaskhan
+3,31,Tail Whip,Status,100,30,0,Kangaskhan
+4,36,Mega Punch,80,85,20,0,Kangaskhan
+5,41,Leer,Status,100,30,0,Kangaskhan
+6,46,Dizzy Punch,70,100,10,20,Kangaskhan

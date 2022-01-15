@@ -1,0 +1,10 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Scratch,40,100,35,0,Golduck
+1,0,Tail Whip,Status,100,30,0,Golduck
+2,0,Disable,Status,55,20,0,Golduck
+3,0,Scratch,40,100,35,0,Golduck
+4,28,Tail Whip,Status,100,30,0,Golduck
+5,31,Disable,Status,55,20,0,Golduck
+6,39,Confusion,50,100,25,10,Golduck
+7,48,Fury Swipes,18,80,15,0,Golduck
+8,59,Hydro Pump,120,80,5,0,Golduck

@@ -1,0 +1,7 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Bubble,20,100,30,30,Horsea
+1,19,Smokescreen,Status,100,20,0,Horsea
+2,24,Leer,Status,100,30,0,Horsea
+3,30,Water Gun,40,100,25,0,Horsea
+4,37,Agility,Status,100,30,0,Horsea
+5,45,Hydro Pump,120,80,5,0,Horsea

@@ -1,0 +1,13 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Tackle,35,95,35,0,Flareon
+1,0,Tail Whip,Status,100,30,0,Flareon
+2,0,Quick Attack,40,100,30,0,Flareon
+3,0,Ember,40,100,25,10,Flareon
+4,8,Sand-Attack,Status,100,15,0,Flareon
+5,16,Ember,40,100,25,10,Flareon
+6,23,Quick Attack,40,100,30,0,Flareon
+7,30,Bite,60,100,25,10,Flareon
+8,36,Fire Spin,15,70,15,0,Flareon
+9,42,Smog,20,70,20,50,Flareon
+10,47,Leer,Status,100,30,0,Flareon
+11,52,Flamethrower,95,100,15,10,Flareon

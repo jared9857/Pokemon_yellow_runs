@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Bubble,20,100,30,30,Poliwag
+1,16,Hypnosis,Status,59.8,20,0,Poliwag
+2,19,Water Gun,40,100,25,0,Poliwag
+3,25,Double Slap,15,85,10,0,Poliwag
+4,31,Body Slam,85,100,15,33,Poliwag
+5,38,Amnesia,Status,100,20,0,Poliwag
+6,45,Hydro Pump,120,80,5,0,Poliwag

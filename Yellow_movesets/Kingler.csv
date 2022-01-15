@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Bubble,20,100,30,30,Kingler
+1,0,Leer,Status,100,30,0,Kingler
+2,0,Vice Grip,55,100,30,0,Kingler
+3,20,Vice Grip,55,100,30,0,Kingler
+4,25,Guillotine,Fixed,30,5,0,Kingler
+5,34,Stomp,65,100,20,33,Kingler
+6,42,Crabhammer,90,85,10,0,Kingler
+7,49,Harden,Status,100,30,0,Kingler

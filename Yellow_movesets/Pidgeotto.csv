@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Gust,40,100,35,0,Pidgeotto
+1,0,Sand-Attack,Status,100,15,0,Pidgeotto
+2,5,Sand-Attack,Status,100,15,0,Pidgeotto
+3,12,Quick Attack,40,100,30,0,Pidgeotto
+4,21,Whirlwind,Status,85,20,0,Pidgeotto
+5,31,Wing Attack,35,100,35,0,Pidgeotto
+6,40,Agility,Status,100,30,0,Pidgeotto
+7,49,Mirror Move,Status,100,20,0,Pidgeotto

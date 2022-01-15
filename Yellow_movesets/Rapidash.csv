@@ -1,0 +1,11 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Ember,40,100,25,10,Rapidash
+1,0,Tail Whip,Status,100,30,0,Rapidash
+2,0,Stomp,65,100,20,33,Rapidash
+3,0,Growl,Status,100,40,0,Rapidash
+4,30,Tail Whip,Status,100,30,0,Rapidash
+5,32,Stomp,65,100,20,33,Rapidash
+6,35,Growl,Status,100,40,0,Rapidash
+7,39,Fire Spin,15,70,15,0,Rapidash
+8,43,Take Down,90,85,20,0,Rapidash
+9,48,Agility,Status,100,30,0,Rapidash

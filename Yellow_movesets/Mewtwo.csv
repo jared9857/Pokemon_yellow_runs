@@ -1,0 +1,10 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Confusion,50,100,25,10,Mewtwo
+1,0,Disable,Status,55,20,0,Mewtwo
+2,0,Swift,60,100,20,0,Mewtwo
+3,0,Psychic,90,100,10,30,Mewtwo
+4,63,Barrier,Status,100,30,0,Mewtwo
+5,66,Psychic,90,100,10,30,Mewtwo
+6,70,Recover,Status,100,20,0,Mewtwo
+7,75,Mist,Status,100,30,0,Mewtwo
+8,81,Amnesia,Status,100,20,0,Mewtwo

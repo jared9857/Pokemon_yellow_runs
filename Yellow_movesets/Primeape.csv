@@ -1,0 +1,13 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Scratch,40,100,35,0,Primeape
+1,0,Leer,Status,100,30,0,Primeape
+2,0,Low Kick,50,90,20,33,Primeape
+3,0,Karate Chop,50,100,25,0,Primeape
+4,9,Low Kick,50,90,20,33,Primeape
+5,15,Karate Chop,50,100,25,0,Primeape
+6,21,Fury Swipes,18,80,15,0,Primeape
+7,27,Focus Energy,Status,100,30,0,Primeape
+8,28,Rage,20,100,20,0,Primeape
+9,37,Seismic Toss,Fixed,100,20,0,Primeape
+10,45,Screech,Status,85,40,0,Primeape
+11,46,Thrash,90,100,20,0,Primeape

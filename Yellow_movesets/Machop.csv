@@ -1,0 +1,7 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Karate Chop,50,100,25,0,Machop
+1,20,Low Kick,50,90,20,33,Machop
+2,25,Leer,Status,100,30,0,Machop
+3,32,Focus Energy,Status,100,30,0,Machop
+4,39,Seismic Toss,Fixed,100,20,0,Machop
+5,46,Submission,80,80,25,0,Machop

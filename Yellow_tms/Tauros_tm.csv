@@ -1,0 +1,22 @@
+,TM/HM #,Attack Name,Power,Acc.,PP,Effect %,Name
+0,TM06,Toxic,Status,85,10,0,Tauros
+1,TM07,Horn Drill,Fixed,30,5,0,Tauros
+2,TM08,Body Slam,85,100,15,33,Tauros
+3,TM09,Take Down,90,85,20,0,Tauros
+4,TM10,Double-Edge,100,100,15,0,Tauros
+5,TM13,Ice Beam,95,100,10,10,Tauros
+6,TM14,Blizzard,120,90,5,10,Tauros
+7,TM15,Hyper Beam,150,90,5,0,Tauros
+8,TM20,Rage,20,100,20,0,Tauros
+9,TM24,Thunderbolt,95,100,15,10,Tauros
+10,TM25,Thunder,120,70,10,10,Tauros
+11,TM26,Earthquake,100,100,10,0,Tauros
+12,TM27,Fissure,Fixed,30,5,0,Tauros
+13,TM31,Mimic,Status,100,10,0,Tauros
+14,TM32,Double Team,Status,100,15,0,Tauros
+15,TM34,Bide,Status,100,10,0,Tauros
+16,TM38,Fire Blast,120,85,5,33,Tauros
+17,TM40,Skull Bash,100,100,15,0,Tauros
+18,TM44,Rest,Status,100,10,0,Tauros
+19,TM50,Substitute,Status,100,10,0,Tauros
+20,HM04,Strength,80,100,15,0,Tauros

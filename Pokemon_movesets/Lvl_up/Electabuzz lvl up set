@@ -1,8 +1,0 @@
-,Level,Attack Name,Power,Acc.,PP,Effect %
-0,0,Quick Attack,40,100,30,0
-1,0,Leer,Status,100,30,0
-2,34,Thunder Shock,40,100,30,0
-3,37,Screech,Status,85,40,0
-4,42,Thunder Punch,75,100,15,10
-5,49,Light Screen,Status,100,30,0
-6,54,Thunder,120,70,10,10

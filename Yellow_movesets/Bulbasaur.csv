@@ -1,0 +1,10 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Tackle,35,95,35,0,Bulbasaur
+1,0,Growl,Status,100,40,0,Bulbasaur
+2,7,Leech Seed,Status,90,10,0,Bulbasaur
+3,13,Vine Whip,35,100,10,0,Bulbasaur
+4,20,Poison Powder,Status,74.6,35,20,Bulbasaur
+5,27,Razor Leaf,55,95,25,0,Bulbasaur
+6,34,Growth,Status,100,40,0,Bulbasaur
+7,41,Sleep Powder,Status,75,15,0,Bulbasaur
+8,48,Solar Beam,120,100,10,0,Bulbasaur

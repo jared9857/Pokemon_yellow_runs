@@ -1,8 +1,0 @@
-,Level,Attack Name,Power,Acc.,PP,Effect %
-0,0,Tackle,35,95,35,0
-1,0,Screech,Status,85,40,0
-2,17,Sonic Boom,Fixed,90,20,0
-3,22,Self-Destruct,130,100,5,0
-4,29,Light Screen,Status,100,30,0
-5,36,Swift,60,100,20,0
-6,43,Explosion,170,100,5,0

@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Barrage,15,85,20,0,Exeggcute
+1,0,Hypnosis,Status,59.8,20,0,Exeggcute
+2,25,Reflect,Status,100,20,0,Exeggcute
+3,28,Leech Seed,Status,90,10,0,Exeggcute
+4,32,Stun Spore,Status,75,30,0,Exeggcute
+5,37,Poison Powder,Status,74.6,35,20,Exeggcute
+6,42,Solar Beam,120,100,10,0,Exeggcute
+7,48,Sleep Powder,Status,75,15,0,Exeggcute

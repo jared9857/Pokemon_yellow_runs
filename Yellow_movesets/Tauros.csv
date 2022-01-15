@@ -1,0 +1,7 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Tackle,35,95,35,0,Tauros
+1,21,Stomp,65,100,20,33,Tauros
+2,28,Tail Whip,Status,100,30,0,Tauros
+3,35,Leer,Status,100,30,0,Tauros
+4,44,Rage,20,100,20,0,Tauros
+5,51,Take Down,90,85,20,0,Tauros

@@ -1,0 +1,10 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Bubble,20,100,30,30,Poliwhirl
+1,0,Hypnosis,Status,59.8,20,0,Poliwhirl
+2,0,Water Gun,40,100,25,0,Poliwhirl
+3,16,Hypnosis,Status,59.8,20,0,Poliwhirl
+4,19,Water Gun,40,100,25,0,Poliwhirl
+5,26,Double Slap,15,85,10,0,Poliwhirl
+6,33,Body Slam,85,100,15,33,Poliwhirl
+7,41,Amnesia,Status,100,20,0,Poliwhirl
+8,49,Hydro Pump,120,80,5,0,Poliwhirl

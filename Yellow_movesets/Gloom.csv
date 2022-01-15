@@ -1,0 +1,10 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Absorb,20,100,20,0,Gloom
+1,0,Poison Powder,Status,74.6,35,20,Gloom
+2,0,Stun Spore,Status,75,30,0,Gloom
+3,15,Poison Powder,Status,74.6,35,20,Gloom
+4,17,Stun Spore,Status,75,30,0,Gloom
+5,19,Sleep Powder,Status,75,15,0,Gloom
+6,28,Acid,40,100,30,33,Gloom
+7,38,Petal Dance,70,100,20,0,Gloom
+8,52,Solar Beam,120,100,10,0,Gloom

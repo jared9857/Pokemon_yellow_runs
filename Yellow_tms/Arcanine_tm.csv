@@ -1,0 +1,19 @@
+,TM/HM #,Attack Name,Power,Acc.,PP,Effect %
+0,TM06,Toxic,Status,85,10,0
+1,TM08,Body Slam,85,100,15,33
+2,TM09,Take Down,90,85,20,0
+3,TM10,Double-Edge,100,100,15,0
+4,TM15,Hyper Beam,150,90,5,0
+5,TM20,Rage,20,100,20,0
+6,TM23,Dragon Rage,Fixed,100,10,0
+7,TM28,Dig,100,100,10,0
+8,TM30,Teleport,Status,100,20,0
+9,TM31,Mimic,Status,100,10,0
+10,TM32,Double Team,Status,100,15,0
+11,TM33,Reflect,Status,100,20,0
+12,TM34,Bide,Status,100,10,0
+13,TM38,Fire Blast,120,85,5,33
+14,TM39,Swift,60,100,20,0
+15,TM40,Skull Bash,100,100,15,0
+16,TM44,Rest,Status,100,10,0
+17,TM50,Substitute,Status,100,10,0

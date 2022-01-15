@@ -1,7 +1,0 @@
-,Level,Attack Name,Power,Acc.,PP,Effect %
-0,0,Wing Attack,35,100,35,0
-1,0,Agility,Status,100,30,0
-2,33,Supersonic,Status,55,20,0
-3,38,Bite,60,100,25,10
-4,45,Take Down,90,85,20,0
-5,54,Hyper Beam,150,90,5,0

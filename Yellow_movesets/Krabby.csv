@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Bubble,20,100,30,30,Krabby
+1,0,Leer,Status,100,30,0,Krabby
+2,20,Vice Grip,55,100,30,0,Krabby
+3,25,Guillotine,Fixed,30,5,0,Krabby
+4,30,Stomp,65,100,20,33,Krabby
+5,35,Crabhammer,90,85,10,0,Krabby
+6,40,Harden,Status,100,30,0,Krabby

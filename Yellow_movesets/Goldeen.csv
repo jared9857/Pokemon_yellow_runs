@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Peck,35,100,35,0,Goldeen
+1,0,Tail Whip,Status,100,30,0,Goldeen
+2,19,Supersonic,Status,55,20,0,Goldeen
+3,24,Horn Attack,65,100,25,0,Goldeen
+4,30,Fury Attack,15,85,20,0,Goldeen
+5,37,Waterfall,80,100,15,0,Goldeen
+6,45,Horn Drill,Fixed,30,5,0,Goldeen
+7,54,Agility,Status,100,30,0,Goldeen

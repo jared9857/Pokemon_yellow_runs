@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Peck,35,100,35,0,Spearow
+1,0,Growl,Status,100,40,0,Spearow
+2,9,Leer,Status,100,30,0,Spearow
+3,15,Fury Attack,15,85,20,0,Spearow
+4,22,Mirror Move,Status,100,20,0,Spearow
+5,29,Drill Peck,80,100,20,0,Spearow
+6,36,Agility,Status,100,30,0,Spearow

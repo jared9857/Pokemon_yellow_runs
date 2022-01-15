@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Comet Punch,18,85,15,0,Hitmonchan
+1,0,Agility,Status,100,30,0,Hitmonchan
+2,33,Fire Punch,75,100,15,10,Hitmonchan
+3,38,Ice Punch,75,100,15,10,Hitmonchan
+4,43,Thunder Punch,75,100,15,10,Hitmonchan
+5,48,Mega Punch,80,85,20,0,Hitmonchan
+6,53,Counter,Fixed,100,20,0,Hitmonchan

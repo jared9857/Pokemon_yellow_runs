@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Wrap,15,85,20,0,Dragonair
+1,0,Leer,Status,100,30,0,Dragonair
+2,0,Thunder Wave,Status,100,20,10,Dragonair
+3,10,Thunder Wave,Status,100,20,10,Dragonair
+4,20,Agility,Status,100,30,0,Dragonair
+5,35,Slam,80,74.6,20,0,Dragonair
+6,45,Dragon Rage,Fixed,100,10,0,Dragonair
+7,55,Hyper Beam,150,90,5,0,Dragonair

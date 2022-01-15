@@ -1,0 +1,11 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Horn Attack,65,100,25,0,Rhydon
+1,0,Stomp,65,100,20,33,Rhydon
+2,0,Tail Whip,Status,100,30,0,Rhydon
+3,0,Fury Attack,15,85,20,0,Rhydon
+4,30,Stomp,65,100,20,33,Rhydon
+5,35,Tail Whip,Status,100,30,0,Rhydon
+6,40,Fury Attack,15,85,20,0,Rhydon
+7,48,Horn Drill,Fixed,30,5,0,Rhydon
+8,55,Leer,Status,100,30,0,Rhydon
+9,64,Take Down,90,85,20,0,Rhydon

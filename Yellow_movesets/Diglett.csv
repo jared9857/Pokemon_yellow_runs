@@ -1,0 +1,7 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Scratch,40,100,35,0,Diglett
+1,15,Growl,Status,100,40,0,Diglett
+2,19,Dig,100,100,10,0,Diglett
+3,24,Sand-Attack,Status,100,15,0,Diglett
+4,31,Slash,70,100,20,0,Diglett
+5,40,Earthquake,100,100,10,0,Diglett

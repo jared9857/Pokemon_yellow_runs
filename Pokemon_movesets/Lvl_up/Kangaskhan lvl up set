@@ -1,8 +1,0 @@
-,Level,Attack Name,Power,Acc.,PP,Effect %
-0,0,Comet Punch,18,85,15,0
-1,0,Rage,20,100,20,0
-2,26,Bite,60,100,25,10
-3,31,Tail Whip,Status,100,30,0
-4,36,Mega Punch,80,85,20,0
-5,41,Leer,Status,100,30,0
-6,46,Dizzy Punch,70,100,10,20

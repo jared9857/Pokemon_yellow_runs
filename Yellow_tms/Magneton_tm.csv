@@ -1,0 +1,18 @@
+,TM/HM #,Attack Name,Power,Acc.,PP,Effect %
+0,TM06,Toxic,Status,85,10,0
+1,TM09,Take Down,90,85,20,0
+2,TM10,Double-Edge,100,100,15,0
+3,TM15,Hyper Beam,150,90,5,0
+4,TM20,Rage,20,100,20,0
+5,TM24,Thunderbolt,95,100,15,10
+6,TM25,Thunder,120,70,10,10
+7,TM30,Teleport,Status,100,20,0
+8,TM31,Mimic,Status,100,10,0
+9,TM32,Double Team,Status,100,15,0
+10,TM33,Reflect,Status,100,20,0
+11,TM34,Bide,Status,100,10,0
+12,TM39,Swift,60,100,20,0
+13,TM44,Rest,Status,100,10,0
+14,TM45,Thunder Wave,Status,100,20,10
+15,TM50,Substitute,Status,100,10,0
+16,HM05,Flash,Status,70,20,0

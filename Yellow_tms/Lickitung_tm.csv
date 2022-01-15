@@ -1,0 +1,31 @@
+,TM/HM #,Attack Name,Power,Acc.,PP,Effect %,Name
+0,TM01,Mega Punch,80,85,20,0,Lickitung
+1,TM03,Swords Dance,Status,100,30,0,Lickitung
+2,TM05,Mega Kick,120,74.6,5,0,Lickitung
+3,TM06,Toxic,Status,85,10,0,Lickitung
+4,TM08,Body Slam,85,100,15,33,Lickitung
+5,TM09,Take Down,90,85,20,0,Lickitung
+6,TM10,Double-Edge,100,100,15,0,Lickitung
+7,TM11,Bubble Beam,65,100,20,33,Lickitung
+8,TM12,Water Gun,40,100,25,0,Lickitung
+9,TM13,Ice Beam,95,100,10,10,Lickitung
+10,TM14,Blizzard,120,90,5,10,Lickitung
+11,TM15,Hyper Beam,150,90,5,0,Lickitung
+12,TM17,Submission,80,80,25,0,Lickitung
+13,TM18,Counter,Fixed,100,20,0,Lickitung
+14,TM19,Seismic Toss,Fixed,100,20,0,Lickitung
+15,TM20,Rage,20,100,20,0,Lickitung
+16,TM24,Thunderbolt,95,100,15,10,Lickitung
+17,TM25,Thunder,120,70,10,10,Lickitung
+18,TM26,Earthquake,100,100,10,0,Lickitung
+19,TM27,Fissure,Fixed,30,5,0,Lickitung
+20,TM31,Mimic,Status,100,10,0,Lickitung
+21,TM32,Double Team,Status,100,15,0,Lickitung
+22,TM34,Bide,Status,100,10,0,Lickitung
+23,TM38,Fire Blast,120,85,5,33,Lickitung
+24,TM40,Skull Bash,100,100,15,0,Lickitung
+25,TM44,Rest,Status,100,10,0,Lickitung
+26,TM50,Substitute,Status,100,10,0,Lickitung
+27,HM01,Cut,50,95,30,0,Lickitung
+28,HM03,Surf,95,100,15,0,Lickitung
+29,HM04,Strength,80,100,15,0,Lickitung

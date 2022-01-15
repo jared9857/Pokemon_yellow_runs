@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Peck,35,100,35,0,Farfetch'd
+1,0,Sand-Attack,Status,100,15,0,Farfetch'd
+2,7,Leer,Status,100,30,0,Farfetch'd
+3,15,Fury Attack,15,85,20,0,Farfetch'd
+4,23,Swords Dance,Status,100,30,0,Farfetch'd
+5,31,Agility,Status,100,30,0,Farfetch'd
+6,39,Slash,70,100,20,0,Farfetch'd

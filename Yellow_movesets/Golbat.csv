@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Leech Life,20,100,15,0,Golbat
+1,0,Screech,Status,85,40,0,Golbat
+2,0,Bite,60,100,25,10,Golbat
+3,10,Supersonic,Status,55,20,0,Golbat
+4,15,Bite,60,100,25,10,Golbat
+5,21,Confuse Ray,Status,100,10,0,Golbat
+6,32,Wing Attack,35,100,35,0,Golbat
+7,43,Haze,Status,100,30,0,Golbat

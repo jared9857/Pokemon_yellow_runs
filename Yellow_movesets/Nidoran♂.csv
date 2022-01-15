@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Leer,Status,100,30,0,Nidoran♂
+1,0,Tackle,35,95,35,0,Nidoran♂
+2,8,Horn Attack,65,100,25,0,Nidoran♂
+3,12,Double Kick,30,100,30,0,Nidoran♂
+4,17,Poison Sting,15,100,35,0,Nidoran♂
+5,23,Focus Energy,Status,100,30,0,Nidoran♂
+6,30,Fury Attack,15,85,20,0,Nidoran♂
+7,38,Horn Drill,Fixed,30,5,0,Nidoran♂

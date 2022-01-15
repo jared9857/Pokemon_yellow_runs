@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Water Gun,40,100,25,0,Omastar
+1,0,Withdraw,Status,100,40,0,Omastar
+2,0,Horn Attack,65,100,25,0,Omastar
+3,34,Horn Attack,65,100,25,0,Omastar
+4,39,Leer,Status,100,30,0,Omastar
+5,44,Spike Cannon,20,100,15,0,Omastar
+6,49,Hydro Pump,120,80,5,0,Omastar

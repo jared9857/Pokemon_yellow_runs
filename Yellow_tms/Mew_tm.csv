@@ -1,0 +1,56 @@
+,TM/HM #,Attack Name,Power,Acc.,PP,Effect %,Name
+0,TM01,Mega Punch,80,85,20,0,Mew
+1,TM02,Razor Wind,80,74.6,10,0,Mew
+2,TM03,Swords Dance,Status,100,30,0,Mew
+3,TM04,Whirlwind,Status,85,20,0,Mew
+4,TM05,Mega Kick,120,74.6,5,0,Mew
+5,TM06,Toxic,Status,85,10,0,Mew
+6,TM07,Horn Drill,Fixed,30,5,0,Mew
+7,TM08,Body Slam,85,100,15,33,Mew
+8,TM09,Take Down,90,85,20,0,Mew
+9,TM10,Double-Edge,100,100,15,0,Mew
+10,TM11,Bubble Beam,65,100,20,33,Mew
+11,TM12,Water Gun,40,100,25,0,Mew
+12,TM13,Ice Beam,95,100,10,10,Mew
+13,TM14,Blizzard,120,90,5,10,Mew
+14,TM15,Hyper Beam,150,90,5,0,Mew
+15,TM16,Pay Day,40,100,20,0,Mew
+16,TM17,Submission,80,80,25,0,Mew
+17,TM18,Counter,Fixed,100,20,0,Mew
+18,TM19,Seismic Toss,Fixed,100,20,0,Mew
+19,TM20,Rage,20,100,20,0,Mew
+20,TM21,Mega Drain,40,100,10,0,Mew
+21,TM22,Solar Beam,120,100,10,0,Mew
+22,TM23,Dragon Rage,Fixed,100,10,0,Mew
+23,TM24,Thunderbolt,95,100,15,10,Mew
+24,TM25,Thunder,120,70,10,10,Mew
+25,TM26,Earthquake,100,100,10,0,Mew
+26,TM27,Fissure,Fixed,30,5,0,Mew
+27,TM28,Dig,100,100,10,0,Mew
+28,TM29,Psychic,90,100,10,30,Mew
+29,TM30,Teleport,Status,100,20,0,Mew
+30,TM31,Mimic,Status,100,10,0,Mew
+31,TM32,Double Team,Status,100,15,0,Mew
+32,TM33,Reflect,Status,100,20,0,Mew
+33,TM34,Bide,Status,100,10,0,Mew
+34,TM35,Metronome,Status,100,10,0,Mew
+35,TM36,Self-Destruct,130,100,5,0,Mew
+36,TM37,Egg Bomb,100,75,10,0,Mew
+37,TM38,Fire Blast,120,85,5,33,Mew
+38,TM39,Swift,60,100,20,0,Mew
+39,TM40,Skull Bash,100,100,15,0,Mew
+40,TM41,Soft-Boiled,Status,100,10,0,Mew
+41,TM42,Dream Eater,100,100,15,0,Mew
+42,TM43,Sky Attack,140,90,5,0,Mew
+43,TM44,Rest,Status,100,10,0,Mew
+44,TM45,Thunder Wave,Status,100,20,10,Mew
+45,TM46,Psywave,Fixed,80,15,0,Mew
+46,TM47,Explosion,170,100,5,0,Mew
+47,TM48,Rock Slide,75,90,10,0,Mew
+48,TM49,Tri Attack,80,100,10,0,Mew
+49,TM50,Substitute,Status,100,10,0,Mew
+50,HM01,Cut,50,95,30,0,Mew
+51,HM02,Fly,70,95,15,0,Mew
+52,HM03,Surf,95,100,15,0,Mew
+53,HM04,Strength,80,100,15,0,Mew
+54,HM05,Flash,Status,70,20,0,Mew

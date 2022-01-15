@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Sleep Powder,Status,75,15,0,Victreebel
+1,0,Stun Spore,Status,75,30,0,Victreebel
+2,0,Acid,40,100,30,33,Victreebel
+3,0,Razor Leaf,55,95,25,0,Victreebel
+4,13,Wrap,15,85,20,0,Victreebel
+5,15,Poison Powder,Status,74.6,35,20,Victreebel
+6,18,Sleep Powder,Status,75,15,0,Victreebel

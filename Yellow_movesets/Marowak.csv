@@ -1,0 +1,11 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Bone Club,65,85,20,10,Marowak
+1,0,Tail Whip,Status,100,30,0,Marowak
+2,10,Bone Club,65,85,20,10,Marowak
+3,13,Tail Whip,Status,100,30,0,Marowak
+4,18,Headbutt,70,100,15,33,Marowak
+5,25,Leer,Status,100,30,0,Marowak
+6,33,Focus Energy,Status,100,30,0,Marowak
+7,41,Thrash,90,100,20,0,Marowak
+8,48,Bonemerang,50,90,10,0,Marowak
+9,55,Rage,20,100,20,0,Marowak

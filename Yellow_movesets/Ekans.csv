@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Wrap,15,85,20,0,Ekans
+1,0,Leer,Status,100,30,0,Ekans
+2,10,Poison Sting,15,100,35,0,Ekans
+3,17,Bite,60,100,25,10,Ekans
+4,24,Glare,Status,75,30,0,Ekans
+5,31,Screech,Status,85,40,0,Ekans
+6,38,Acid,40,100,30,33,Ekans

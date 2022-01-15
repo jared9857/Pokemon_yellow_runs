@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Headbutt,70,100,15,33,Snorlax
+1,0,Amnesia,Status,100,20,0,Snorlax
+2,0,Rest,Status,100,10,0,Snorlax
+3,35,Body Slam,85,100,15,33,Snorlax
+4,41,Harden,Status,100,30,0,Snorlax
+5,48,Double-Edge,100,100,15,0,Snorlax
+6,56,Hyper Beam,150,90,5,0,Snorlax

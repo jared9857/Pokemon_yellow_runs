@@ -1,0 +1,10 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Tackle,35,95,35,0,Magneton
+1,0,Sonic Boom,Fixed,90,20,0,Magneton
+2,0,Thunder Shock,40,100,30,0,Magneton
+3,21,Sonic Boom,Fixed,90,20,0,Magneton
+4,25,Thunder Shock,40,100,30,0,Magneton
+5,29,Supersonic,Status,55,20,0,Magneton
+6,38,Thunder Wave,Status,100,20,10,Magneton
+7,46,Swift,60,100,20,0,Magneton
+8,54,Screech,Status,85,40,0,Magneton

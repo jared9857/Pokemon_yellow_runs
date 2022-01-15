@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Wrap,15,85,20,0,Arbok
+1,0,Leer,Status,100,30,0,Arbok
+2,0,Poison Sting,15,100,35,0,Arbok
+3,10,Poison Sting,15,100,35,0,Arbok
+4,17,Bite,60,100,25,10,Arbok
+5,27,Glare,Status,75,30,0,Arbok
+6,36,Screech,Status,85,40,0,Arbok
+7,47,Acid,40,100,30,33,Arbok

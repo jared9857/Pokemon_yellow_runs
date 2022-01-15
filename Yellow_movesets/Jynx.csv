@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Pound,40,100,35,0,Jynx
+1,0,Lovely Kiss,Status,75,10,0,Jynx
+2,18,Lick,20,100,30,33,Jynx
+3,23,Double Slap,15,85,10,0,Jynx
+4,31,Ice Punch,75,100,15,10,Jynx
+5,39,Body Slam,85,100,15,33,Jynx
+6,47,Thrash,90,100,20,0,Jynx
+7,58,Blizzard,120,90,5,10,Jynx

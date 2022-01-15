@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Pound,40,100,35,0,Drowzee
+1,0,Hypnosis,Status,59.8,20,0,Drowzee
+2,12,Disable,Status,55,20,0,Drowzee
+3,17,Confusion,50,100,25,10,Drowzee
+4,24,Headbutt,70,100,15,33,Drowzee
+5,29,Poison Gas,Status,55,40,0,Drowzee
+6,32,Psychic,90,100,10,30,Drowzee
+7,37,Meditate,Status,100,40,0,Drowzee

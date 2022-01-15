@@ -1,0 +1,7 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Tackle,35,95,35,0,Gyarados
+1,20,Bite,60,100,25,10,Gyarados
+2,25,Dragon Rage,Fixed,100,10,0,Gyarados
+3,32,Leer,Status,100,30,0,Gyarados
+4,41,Hydro Pump,120,80,5,0,Gyarados
+5,52,Hyper Beam,150,90,5,0,Gyarados

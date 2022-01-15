@@ -1,9 +1,0 @@
-,Level,Attack Name,Power,Acc.,PP,Effect %
-0,0,Water Gun,40,100,25,0
-1,0,Growl,Status,100,40,0
-2,16,Sing,Status,55,15,0
-3,20,Mist,Status,100,30,0
-4,25,Body Slam,85,100,15,33
-5,31,Confuse Ray,Status,100,10,0
-6,38,Ice Beam,95,100,10,10
-7,46,Hydro Pump,120,80,5,0

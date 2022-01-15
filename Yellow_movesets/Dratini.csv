@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Wrap,15,85,20,0,Dratini
+1,0,Leer,Status,100,30,0,Dratini
+2,10,Thunder Wave,Status,100,20,10,Dratini
+3,20,Agility,Status,100,30,0,Dratini
+4,30,Slam,80,74.6,20,0,Dratini
+5,40,Dragon Rage,Fixed,100,10,0,Dratini
+6,50,Hyper Beam,150,90,5,0,Dratini

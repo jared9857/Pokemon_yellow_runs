@@ -1,0 +1,12 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Thunder Shock,40,100,30,0,Pikachu
+1,0,Growl,Status,100,40,0,Pikachu
+2,6,Tail Whip,Status,100,30,0,Pikachu
+3,8,Thunder Wave,Status,100,20,10,Pikachu
+4,11,Quick Attack,40,100,30,0,Pikachu
+5,15,Double Team,Status,100,15,0,Pikachu
+6,20,Slam,80,74.6,20,0,Pikachu
+7,26,Thunderbolt,95,100,15,10,Pikachu
+8,33,Agility,Status,100,30,0,Pikachu
+9,41,Thunder,120,70,10,10,Pikachu
+10,50,Light Screen,Status,100,30,0,Pikachu

@@ -1,0 +1,10 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Peck,35,100,35,0,Dodrio
+1,0,Growl,Status,100,40,0,Dodrio
+2,0,Fury Attack,15,85,20,0,Dodrio
+3,20,Growl,Status,100,40,0,Dodrio
+4,24,Fury Attack,15,85,20,0,Dodrio
+5,30,Drill Peck,80,100,20,0,Dodrio
+6,39,Rage,20,100,20,0,Dodrio
+7,45,Tri Attack,80,100,10,0,Dodrio
+8,51,Agility,Status,100,30,0,Dodrio

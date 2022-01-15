@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Tackle,35,95,35,0,Staryu
+1,17,Water Gun,40,100,25,0,Staryu
+2,22,Harden,Status,100,30,0,Staryu
+3,27,Recover,Status,100,20,0,Staryu
+4,32,Swift,60,100,20,0,Staryu
+5,37,Minimize,Status,100,20,0,Staryu
+6,42,Light Screen,Status,100,30,0,Staryu
+7,47,Hydro Pump,120,80,5,0,Staryu

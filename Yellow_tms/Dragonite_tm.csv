@@ -1,0 +1,28 @@
+,TM/HM #,Attack Name,Power,Acc.,PP,Effect %
+0,TM02,Razor Wind,80,74.6,10,0
+1,TM06,Toxic,Status,85,10,0
+2,TM07,Horn Drill,Fixed,30,5,0
+3,TM08,Body Slam,85,100,15,33
+4,TM09,Take Down,90,85,20,0
+5,TM10,Double-Edge,100,100,15,0
+6,TM11,Bubble Beam,65,100,20,33
+7,TM12,Water Gun,40,100,25,0
+8,TM13,Ice Beam,95,100,10,10
+9,TM14,Blizzard,120,90,5,10
+10,TM15,Hyper Beam,150,90,5,0
+11,TM20,Rage,20,100,20,0
+12,TM23,Dragon Rage,Fixed,100,10,0
+13,TM24,Thunderbolt,95,100,15,10
+14,TM25,Thunder,120,70,10,10
+15,TM31,Mimic,Status,100,10,0
+16,TM32,Double Team,Status,100,15,0
+17,TM33,Reflect,Status,100,20,0
+18,TM34,Bide,Status,100,10,0
+19,TM38,Fire Blast,120,85,5,33
+20,TM39,Swift,60,100,20,0
+21,TM40,Skull Bash,100,100,15,0
+22,TM44,Rest,Status,100,10,0
+23,TM45,Thunder Wave,Status,100,20,10
+24,TM50,Substitute,Status,100,10,0
+25,HM03,Surf,95,100,15,0
+26,HM04,Strength,80,100,15,0

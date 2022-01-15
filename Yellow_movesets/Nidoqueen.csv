@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Tackle,35,95,35,0,Nidoqueen
+1,0,Scratch,40,100,35,0,Nidoqueen
+2,0,Tail Whip,Status,100,30,0,Nidoqueen
+3,0,Body Slam,85,100,15,33,Nidoqueen
+4,8,Scratch,40,100,35,0,Nidoqueen
+5,12,Double Kick,30,100,30,0,Nidoqueen
+6,23,Body Slam,85,100,15,33,Nidoqueen

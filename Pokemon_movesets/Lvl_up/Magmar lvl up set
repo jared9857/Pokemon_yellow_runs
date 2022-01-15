@@ -1,8 +1,0 @@
-,Level,Attack Name,Power,Acc.,PP,Effect %
-0,0,Ember,40,100,25,10
-1,36,Leer,Status,100,30,0
-2,39,Confuse Ray,Status,100,10,0
-3,43,Fire Punch,75,100,15,10
-4,48,Smokescreen,Status,100,20,0
-5,52,Smog,20,70,20,50
-6,55,Flamethrower,95,100,15,10

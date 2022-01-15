@@ -1,0 +1,6 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Peck,35,100,35,0,Articuno
+1,0,Ice Beam,95,100,10,10,Articuno
+2,51,Blizzard,120,90,5,10,Articuno
+3,55,Agility,Status,100,30,0,Articuno
+4,60,Mist,Status,100,30,0,Articuno

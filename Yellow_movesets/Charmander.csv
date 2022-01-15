@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Scratch,40,100,35,0,Charmander
+1,0,Growl,Status,100,40,0,Charmander
+2,9,Ember,40,100,25,10,Charmander
+3,15,Leer,Status,100,30,0,Charmander
+4,22,Rage,20,100,20,0,Charmander
+5,30,Slash,70,100,20,0,Charmander
+6,38,Flamethrower,95,100,15,10,Charmander
+7,46,Fire Spin,15,70,15,0,Charmander

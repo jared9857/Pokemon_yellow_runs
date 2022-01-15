@@ -1,0 +1,6 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Peck,35,100,35,0,Moltres
+1,0,Fire Spin,15,70,15,0,Moltres
+2,51,Leer,Status,100,30,0,Moltres
+3,55,Agility,Status,100,30,0,Moltres
+4,60,Sky Attack,140,90,5,0,Moltres

@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Fury Attack,15,85,20,0,Beedrill
+1,12,Fury Attack,15,85,20,0,Beedrill
+2,16,Focus Energy,Status,100,30,0,Beedrill
+3,20,Twineedle,25,100,20,0,Beedrill
+4,25,Rage,20,100,20,0,Beedrill
+5,30,Pin Missile,14,85,20,0,Beedrill
+6,35,Agility,Status,100,30,0,Beedrill

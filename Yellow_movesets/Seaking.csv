@@ -1,0 +1,10 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Peck,35,100,35,0,Seaking
+1,0,Tail Whip,Status,100,30,0,Seaking
+2,0,Supersonic,Status,55,20,0,Seaking
+3,19,Supersonic,Status,55,20,0,Seaking
+4,24,Horn Attack,65,100,25,0,Seaking
+5,30,Fury Attack,15,85,20,0,Seaking
+6,39,Waterfall,80,100,15,0,Seaking
+7,48,Horn Drill,Fixed,30,5,0,Seaking
+8,54,Agility,Status,100,30,0,Seaking

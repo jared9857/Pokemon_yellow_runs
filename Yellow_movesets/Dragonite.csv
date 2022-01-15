@@ -1,0 +1,10 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Wrap,15,85,20,0,Dragonite
+1,0,Thunder Wave,Status,100,20,10,Dragonite
+2,0,Leer,Status,100,30,0,Dragonite
+3,0,Agility,Status,100,30,0,Dragonite
+4,10,Thunder Wave,Status,100,20,10,Dragonite
+5,20,Agility,Status,100,30,0,Dragonite
+6,35,Slam,80,74.6,20,0,Dragonite
+7,45,Dragon Rage,Fixed,100,10,0,Dragonite
+8,60,Hyper Beam,150,90,5,0,Dragonite

@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Ember,40,100,25,10,Magmar
+1,36,Leer,Status,100,30,0,Magmar
+2,39,Confuse Ray,Status,100,10,0,Magmar
+3,43,Fire Punch,75,100,15,10,Magmar
+4,48,Smokescreen,Status,100,20,0,Magmar
+5,52,Smog,20,70,20,50,Magmar
+6,55,Flamethrower,95,100,15,10,Magmar

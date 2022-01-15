@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Absorb,20,100,20,0,Oddish
+1,15,Poison Powder,Status,74.6,35,20,Oddish
+2,17,Stun Spore,Status,75,30,0,Oddish
+3,19,Sleep Powder,Status,75,15,0,Oddish
+4,24,Acid,40,100,30,33,Oddish
+5,33,Petal Dance,70,100,20,0,Oddish
+6,46,Solar Beam,120,100,10,0,Oddish

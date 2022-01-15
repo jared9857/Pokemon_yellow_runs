@@ -1,0 +1,13 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Tackle,35,95,35,0,Jolteon
+1,0,Tail Whip,Status,100,30,0,Jolteon
+2,0,Quick Attack,40,100,30,0,Jolteon
+3,0,Thunder Shock,40,100,30,0,Jolteon
+4,8,Sand-Attack,Status,100,15,0,Jolteon
+5,16,Thunder Shock,40,100,30,0,Jolteon
+6,23,Quick Attack,40,100,30,0,Jolteon
+7,30,Double Kick,30,100,30,0,Jolteon
+8,36,Pin Missile,14,85,20,0,Jolteon
+9,42,Thunder Wave,Status,100,20,10,Jolteon
+10,47,Agility,Status,100,30,0,Jolteon
+11,52,Thunder,120,70,10,10,Jolteon

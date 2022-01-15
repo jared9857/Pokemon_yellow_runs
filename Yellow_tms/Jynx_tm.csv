@@ -1,0 +1,27 @@
+,TM/HM #,Attack Name,Power,Acc.,PP,Effect %,Name
+0,TM01,Mega Punch,80,85,20,0,Jynx
+1,TM05,Mega Kick,120,74.6,5,0,Jynx
+2,TM06,Toxic,Status,85,10,0,Jynx
+3,TM08,Body Slam,85,100,15,33,Jynx
+4,TM09,Take Down,90,85,20,0,Jynx
+5,TM10,Double-Edge,100,100,15,0,Jynx
+6,TM11,Bubble Beam,65,100,20,33,Jynx
+7,TM12,Water Gun,40,100,25,0,Jynx
+8,TM13,Ice Beam,95,100,10,10,Jynx
+9,TM14,Blizzard,120,90,5,10,Jynx
+10,TM15,Hyper Beam,150,90,5,0,Jynx
+11,TM17,Submission,80,80,25,0,Jynx
+12,TM18,Counter,Fixed,100,20,0,Jynx
+13,TM19,Seismic Toss,Fixed,100,20,0,Jynx
+14,TM20,Rage,20,100,20,0,Jynx
+15,TM29,Psychic,90,100,10,30,Jynx
+16,TM30,Teleport,Status,100,20,0,Jynx
+17,TM31,Mimic,Status,100,10,0,Jynx
+18,TM32,Double Team,Status,100,15,0,Jynx
+19,TM33,Reflect,Status,100,20,0,Jynx
+20,TM34,Bide,Status,100,10,0,Jynx
+21,TM35,Metronome,Status,100,10,0,Jynx
+22,TM40,Skull Bash,100,100,15,0,Jynx
+23,TM44,Rest,Status,100,10,0,Jynx
+24,TM46,Psywave,Fixed,80,15,0,Jynx
+25,TM50,Substitute,Status,100,10,0,Jynx

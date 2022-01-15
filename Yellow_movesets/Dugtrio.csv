@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Scratch,40,100,35,0,Dugtrio
+1,0,Growl,Status,100,40,0,Dugtrio
+2,0,Dig,100,100,10,0,Dugtrio
+3,15,Growl,Status,100,40,0,Dugtrio
+4,19,Dig,100,100,10,0,Dugtrio
+5,24,Sand-Attack,Status,100,15,0,Dugtrio
+6,35,Slash,70,100,20,0,Dugtrio
+7,47,Earthquake,100,100,10,0,Dugtrio

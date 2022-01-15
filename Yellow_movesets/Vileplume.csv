@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Stun Spore,Status,75,30,0,Vileplume
+1,0,Sleep Powder,Status,75,15,0,Vileplume
+2,0,Acid,40,100,30,33,Vileplume
+3,0,Petal Dance,70,100,20,0,Vileplume
+4,15,Poison Powder,Status,74.6,35,20,Vileplume
+5,17,Stun Spore,Status,75,30,0,Vileplume
+6,19,Sleep Powder,Status,75,15,0,Vileplume

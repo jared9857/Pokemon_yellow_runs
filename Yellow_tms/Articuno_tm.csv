@@ -1,0 +1,21 @@
+,TM/HM #,Attack Name,Power,Acc.,PP,Effect %,Name
+0,TM02,Razor Wind,80,74.6,10,0,Articuno
+1,TM04,Whirlwind,Status,85,20,0,Articuno
+2,TM06,Toxic,Status,85,10,0,Articuno
+3,TM09,Take Down,90,85,20,0,Articuno
+4,TM10,Double-Edge,100,100,15,0,Articuno
+5,TM11,Bubble Beam,65,100,20,33,Articuno
+6,TM12,Water Gun,40,100,25,0,Articuno
+7,TM13,Ice Beam,95,100,10,10,Articuno
+8,TM14,Blizzard,120,90,5,10,Articuno
+9,TM15,Hyper Beam,150,90,5,0,Articuno
+10,TM20,Rage,20,100,20,0,Articuno
+11,TM31,Mimic,Status,100,10,0,Articuno
+12,TM32,Double Team,Status,100,15,0,Articuno
+13,TM33,Reflect,Status,100,20,0,Articuno
+14,TM34,Bide,Status,100,10,0,Articuno
+15,TM39,Swift,60,100,20,0,Articuno
+16,TM43,Sky Attack,140,90,5,0,Articuno
+17,TM44,Rest,Status,100,10,0,Articuno
+18,TM50,Substitute,Status,100,10,0,Articuno
+19,HM02,Fly,70,95,15,0,Articuno

@@ -1,0 +1,11 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Tackle,35,95,35,0,Venonat
+1,0,Disable,Status,55,20,0,Venonat
+2,11,Supersonic,Status,55,20,0,Venonat
+3,19,Confusion,50,100,25,10,Venonat
+4,24,Poison Powder,Status,74.6,35,20,Venonat
+5,27,Leech Life,20,100,15,0,Venonat
+6,30,Stun Spore,Status,75,30,0,Venonat
+7,35,Psybeam,65,100,20,10,Venonat
+8,38,Sleep Powder,Status,75,15,0,Venonat
+9,43,Psychic,90,100,10,30,Venonat

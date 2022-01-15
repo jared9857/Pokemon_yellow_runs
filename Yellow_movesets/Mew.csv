@@ -1,0 +1,6 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Pound,40,100,35,0,Mew
+1,10,Transform,Status,100,10,0,Mew
+2,20,Mega Punch,80,85,20,0,Mew
+3,30,Metronome,Status,100,10,0,Mew
+4,40,Psychic,90,100,10,30,Mew

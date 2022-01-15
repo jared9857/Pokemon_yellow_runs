@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Bubble,20,100,30,30,Seadra
+1,0,Smokescreen,Status,100,20,0,Seadra
+2,19,Smokescreen,Status,100,20,0,Seadra
+3,24,Leer,Status,100,30,0,Seadra
+4,30,Water Gun,40,100,25,0,Seadra
+5,41,Agility,Status,100,30,0,Seadra
+6,52,Hydro Pump,120,80,5,0,Seadra

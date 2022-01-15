@@ -1,0 +1,8 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Wrap,15,85,20,0,Lickitung
+1,0,Supersonic,Status,55,20,0,Lickitung
+2,7,Stomp,65,100,20,33,Lickitung
+3,15,Disable,Status,55,20,0,Lickitung
+4,23,Defense Curl,Status,100,40,0,Lickitung
+5,31,Slam,80,74.6,20,0,Lickitung
+6,39,Screech,Status,85,40,0,Lickitung

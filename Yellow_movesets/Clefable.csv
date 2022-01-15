@@ -1,0 +1,5 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Sing,Status,55,15,0,Clefable
+1,0,Double Slap,15,85,10,0,Clefable
+2,0,Minimize,Status,100,20,0,Clefable
+3,0,Metronome,Status,100,10,0,Clefable

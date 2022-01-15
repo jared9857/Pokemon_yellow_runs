@@ -1,0 +1,11 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Vine Whip,35,100,10,0,Weepinbell
+1,0,Growth,Status,100,40,0,Weepinbell
+2,0,Wrap,15,85,20,0,Weepinbell
+3,13,Wrap,15,85,20,0,Weepinbell
+4,15,Poison Powder,Status,74.6,35,20,Weepinbell
+5,18,Sleep Powder,Status,75,15,0,Weepinbell
+6,23,Stun Spore,Status,75,30,0,Weepinbell
+7,29,Acid,40,100,30,33,Weepinbell
+8,38,Razor Leaf,55,95,25,0,Weepinbell
+9,49,Slam,80,74.6,20,0,Weepinbell

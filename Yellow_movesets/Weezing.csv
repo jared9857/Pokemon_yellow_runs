@@ -1,0 +1,9 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Tackle,35,95,35,0,Weezing
+1,0,Smog,20,70,20,50,Weezing
+2,0,Sludge,65,100,20,50,Weezing
+3,32,Sludge,65,100,20,50,Weezing
+4,39,Smokescreen,Status,100,20,0,Weezing
+5,43,Self-Destruct,130,100,5,0,Weezing
+6,49,Haze,Status,100,30,0,Weezing
+7,53,Explosion,170,100,5,0,Weezing

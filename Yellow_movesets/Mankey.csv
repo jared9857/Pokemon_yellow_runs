@@ -1,0 +1,10 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Scratch,40,100,35,0,Mankey
+1,0,Leer,Status,100,30,0,Mankey
+2,9,Low Kick,50,90,20,33,Mankey
+3,15,Karate Chop,50,100,25,0,Mankey
+4,21,Fury Swipes,18,80,15,0,Mankey
+5,27,Focus Energy,Status,100,30,0,Mankey
+6,33,Seismic Toss,Fixed,100,20,0,Mankey
+7,39,Thrash,90,100,20,0,Mankey
+8,45,Screech,Status,85,40,0,Mankey

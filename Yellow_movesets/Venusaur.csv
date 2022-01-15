@@ -1,0 +1,12 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Tackle,35,95,35,0,Venusaur
+1,0,Growl,Status,100,40,0,Venusaur
+2,0,Leech Seed,Status,90,10,0,Venusaur
+3,0,Vine Whip,35,100,10,0,Venusaur
+4,7,Leech Seed,Status,90,10,0,Venusaur
+5,13,Vine Whip,35,100,10,0,Venusaur
+6,22,Poison Powder,Status,74.6,35,20,Venusaur
+7,30,Razor Leaf,55,95,25,0,Venusaur
+8,43,Growth,Status,100,40,0,Venusaur
+9,55,Sleep Powder,Status,75,15,0,Venusaur
+10,65,Solar Beam,120,100,10,0,Venusaur

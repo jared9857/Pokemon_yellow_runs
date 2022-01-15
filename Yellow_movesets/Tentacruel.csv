@@ -1,0 +1,12 @@
+,Level,Attack Name,Power,Acc.,PP,Effect %,Name
+0,0,Acid,40,100,30,33,Tentacruel
+1,0,Supersonic,Status,55,20,0,Tentacruel
+2,0,Wrap,15,85,20,0,Tentacruel
+3,7,Supersonic,Status,55,20,0,Tentacruel
+4,13,Wrap,15,85,20,0,Tentacruel
+5,18,Poison Sting,15,100,35,0,Tentacruel
+6,22,Water Gun,40,100,25,0,Tentacruel
+7,27,Constrict,10,100,35,10,Tentacruel
+8,35,Barrier,Status,100,30,0,Tentacruel
+9,43,Screech,Status,85,40,0,Tentacruel
+10,50,Hydro Pump,120,80,5,0,Tentacruel
